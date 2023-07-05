@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1345" alt="Screenshot 2023-07-05 at 11 29 55 AM" src="https://github.com/jassiii-17/spotify_clone_react_app/assets/75804322/992a9b6d-73a2-4dfe-9b3e-c307863e0431">
+
 
 ## Available Scripts
 
